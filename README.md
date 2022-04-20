@@ -10,4 +10,4 @@ The remaining stages related to the comprehensive implementation of WinRM, such 
 
 The following graphic describes the script process:
 
-![Process](/WinRM/src/winrm.png?raw=true "Process")
+<img src="https://github.com/przemyslawfilipczak/WinRM/blob/main/src/winrm.png?raw=true" alt="Process" title="Process">
